@@ -1,4 +1,4 @@
-### Here is my BIO 👋
+### Got the 411 on the NLP nerd, Karthik? 🔥✌️
 
 <!--
 **karthikRavichandran/karthikRavichandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Who is Karthik 💬 ?
 
 ⚡ Karthik Ravichandran, a dedicated professional hailing from India, currently pursues his graduate studies at the prestigious University of Massachusetts, MA, USA. As a Graduate student, he is currently focusing on the personalization of Language Model Libraries (LLM) using Information Retrieval. This research, initially undertaken in CS646 under the guidance of Professor Hamad Zamani, reflects Karthik's commitment to advancing the field.
 
