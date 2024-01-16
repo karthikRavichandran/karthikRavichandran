@@ -32,5 +32,5 @@ Here are some ideas to get you started:
     
 👯 Follow me on: 
   - Linkedin: https://www.linkedin.com/in/karthik-ravichandran-181173a9/
-  - https://scholar.google.com/citations?user=y9CZRioAAAAJ&hl=en
+  - Google Scholar: https://scholar.google.com/citations?user=y9CZRioAAAAJ&hl=en
 
