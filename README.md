@@ -27,3 +27,10 @@ Here are some ideas to get you started:
 
 🔭 Karthik Ravichandran's journey is underscored by excellence, a passion for solving real-world problems, and a continuous pursuit of knowledge in the realms of Data Science and NLP. His work is substantiated by over 60 citations, 4 index publications, and 3 I-10 index citations, attesting to the impact and significance of his contributions in the academic and professional spheres.
 
+📫 How to reach me: 
+  - Email tkgravikarthik@gmail.com
+    
+👯 Follow me on: 
+  - Linkedin: https://www.linkedin.com/in/karthik-ravichandran-181173a9/
+  - https://scholar.google.com/citations?user=y9CZRioAAAAJ&hl=en
+
