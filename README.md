@@ -33,4 +33,5 @@ Here are some ideas to get you started:
 👯 Follow me on: 
   - Linkedin: https://www.linkedin.com/in/karthik-ravichandran-181173a9/
   - Google Scholar: https://scholar.google.com/citations?user=y9CZRioAAAAJ&hl=en
+  - Researchgate : https://www.researchgate.net/profile/Karthik-Ravichandran-3
 
